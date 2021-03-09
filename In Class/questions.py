@@ -1,6 +1,6 @@
 '''
-1.WAP to add two nos.
-2 .WAP to print the given no. is even or odd
+1. WAP to add two nos.
+2. WAP to print the given no. is even or odd
 3. WAP to print reverse of a given no.
 4. WAP to print armstrong of a given no. e.g 153=1+125+27=153
 '''
