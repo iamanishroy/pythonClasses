@@ -9,4 +9,4 @@ sum = 0
 for no in nos:
     if(no % 4 == 0):
         sum = sum + no
-print(sum)
+print("Sum of multiple of 4 numbers : ", sum)

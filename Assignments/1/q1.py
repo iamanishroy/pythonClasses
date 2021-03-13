@@ -6,7 +6,7 @@ tuple2 = (5, 78, 96, 155,)
 list3 = []
 i, j = 0, 0
 
-while(len(tuple1) > i and len(tuple2) > j):
+while len(tuple1) > i and len(tuple2) > j:
     if tuple1[i] < tuple2[j]:
         list3.append(tuple1[i])
         i = i + 1
