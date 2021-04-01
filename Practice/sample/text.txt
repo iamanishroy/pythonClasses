@@ -1,0 +1,27 @@
+Data Model
+A data model is a conceptual tool to describe data, data relationships, and consistency constraints.
+ 
+Object based Logical Model- ER model
+Record Based Logical Model
+(a) Hierarchical Data Model
+(b) Network Data Model
+(c) Relational Data Model
+ 
+Entity
+tangible Entities
+intangible Entities
+ 
+Entity Set
+Attributes
+types of attributes
+1. Simple or composite
+roll number - simple attribute
+name- composite attribute
+Address- composite 
+2. single valued or multi valued attribute
+3. Stored or Derived Attribute
+Relationship- is an association between two or more entities of same or different entity set.
+components of the relationship
+name
+degree
+cardinality Ratio/ Participation Constraints.

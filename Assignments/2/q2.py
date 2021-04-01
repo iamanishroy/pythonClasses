@@ -1,7 +1,7 @@
 # Write a python program to accept number of words from user then accept
 # and print the words together on one line. Display exception if for
 # number integer value is not provided from user at start.
-
+# import this
 try:
     wordCount = int(input('Enter the count of words : '))
     words = []
@@ -11,5 +11,5 @@ try:
     for word in words:
         line = line + word + ' '
     print(line)
-except TypeError:
+except ValueError:
     print("Word count must be an Integer Value")
