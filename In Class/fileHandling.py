@@ -23,6 +23,7 @@ print(my_file2.readline())  # reads only the current line
 # reading content line by line
 my_file2.seek(0)
 content = my_file2.readlines()
+print(content)
 for x in content:
     print(x)
 

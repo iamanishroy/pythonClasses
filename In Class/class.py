@@ -9,6 +9,11 @@ class Example:
 
 # e = Example(8, 6)
 # print(e.add())
+# TODO:
+# HACK:
+# FIXME:
+# NOTE:
+# REVIEW:
 
 
 class student(object):
